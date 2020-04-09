@@ -1,0 +1,12 @@
+tim leader= Munir
+sistem analisis= Rianti,putri,kristin,ahmad,april
+desain interface= nani, Jaenal ,tiya
+mobile enginer= all nanti bantu
+
+Pilihan aplikasi:
+1. absen barcode
+2. toko online buku
+3. musik online
+4. sistem informasi desa
+5. sasaran petani jual beli hasil panen
+6. agenda
